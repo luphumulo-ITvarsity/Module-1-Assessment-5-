@@ -1,0 +1,31 @@
+.nav{
+    
+    background-color:#c71585;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    color: #c71585;
+}
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0
+}
+nav li{
+    display: inline-block;
+    margin-right: 30px;
+    
+}
+nav a{
+    color: #c71585;
+    text-decoration: none;
+}
+body{
+    color: aqua;
+}
+.h2{
+    color: black;
+}
+p{
+    color: black;
+}
